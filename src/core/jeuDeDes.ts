@@ -68,6 +68,16 @@ export class JeuDeDes {
         return JSON.stringify(resultat);
     }
 
+    public redemarrerJeu(): string {
+        this._joueurs.clear();
+        const resultat = {
+            message: "Le jeu a été redémarré."
+        };
+
+        // ne pas retourner l'objet de la couche domaine
+        return JSON.stringify(resultat);
+    }
+
     // d'autres méthodes (des RDCU)
     brasser() {
         this._d1.brasser();
