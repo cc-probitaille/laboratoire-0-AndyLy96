@@ -174,7 +174,7 @@ Voici la même figure, mais sous forme de diagramme de séquence avec l'acteur. 
 
 ### Modèle du domaine
 
-![Diagramme de classe du Modèle du domaine](http://www.plantuml.com/plantuml/proxy?cache=no&fmt=svg&src=https://raw.githubusercontent.com/profcfuhrmanets/log210-jeu-de-des-node-express-ts/master/docs/modeles/mdd.puml)
+![Diagramme de classe du Modèle du domaine](https://www.plantuml.com/plantuml/uml/ZLEzRjmm3Dxz58IN04Lkw6e4HehBqAr5cXTGR3QdGgPSaZeWAFekNRtd3VHYjMHK4TmBaEb0yVlXHvvlHGrhc5pJ3Cw8G7jq5abRkBc1-_ZYiE_XLmC0G7xgG9GjFMrrcEB2_Y4kBYxpoHDsO4cRtwzIVfgir5B_ALNe-xW8yjcezPGu3sn8p93AGjmiQsJspCtHA7vYjkUuO9Uhydot3cXOjzVAydDyKNJ9xEX9aJ2mNCENnn-eX_dqBFPdk3Hqhit8A88NWXnFPdfaV9KDgoy9kAjJzjixNCDNzcEm2kDL80HzC_YclD_pqMXSdZnRN1tlK0QsSoAlSaXgrsRVDrM8RsNWSkpsOmk7G_ufL-l0p3CwXp3xmC3Lqg5l2kmVzKExFs47mqgAo-eQpbcere3tYeYnOXKS2bZwxddA7Kdy7JRHIugSBASGyOED2qByKvlMyF9FwDBspyQw7FgIHvcq73edzJGW4oP64NiRgsau675BKNhrHEMgcOEIuA3FSxQuHHhpH_iN)
 
 ### Diagramme de séquence système (DSS)
 
@@ -206,7 +206,7 @@ Voici la même figure, mais sous forme de diagramme de séquence avec l'acteur. 
 
 **RDCU**
 
-![Diagramme de séquence, jouer](http://www.plantuml.com/plantuml/proxy?cache=no&fmt=svg&src=https://raw.githubusercontent.com/profcfuhrmanets/log210-jeu-de-des-node-express-ts/master/docs/modeles/rdcu-jouer.puml)
+![Diagramme de séquence, jouer](//www.plantuml.com/plantuml/png/bP7DJeD058NtFCLDLnfj8h0ZRTEa66CJZV77bPift5AGkJEPkJJwNhw1B-OCZIGb_MaNp6BEETyvmDIoCDp8Eh2V9MbXX0JBtpMwqvHPJybnAPgQbugOX4HuHvCB4W6Nx1BFwUmDj6eCLAf14xWCbrcf1J4CaZasAQPe1o0iPDkYzpV69X_q8FJenJLJSJrlBoUjlvBRWJnCKcoLFEmfKQT4FINkbBXNdsowDbN1S991idc72rBoCY352AOiLkpkBTQAOAQ8pUzFxL91DfnKqYTW3DaAZNls1r-D8BjKHgA1-nIGG2qgPEifUUXi2oEiTO2TwTilZOOxxpfqbMlXLnnnHsUG8q-EJYN7Pv1ZJuvF95VkhgJiSV7a_nNQWtIbsN-DAp_S7J6CnX3U100xG7UY86nv0Fk9I3aetItHRZNz4uuFBxozLtWWDNLjZQp_0000)
 
 #### Opération: `terminerJeu(nom:String)`
 
@@ -218,6 +218,6 @@ Voici la même figure, mais sous forme de diagramme de séquence avec l'acteur. 
 
 
 #### Diagramme de classes logicielles
-![Diagramme de classes logicielles](image.png)
+![Diagramme de classes logicielles](https://www.plantuml.com/plantuml/png/rLJ1RXCn4BtdAwoUMYMfKYYN9OfQiIsYWa3f1rJE-X4PxThfs2w9elmxpkvcj75445meEQmoRvxVisVikN9UaWzLsIjAwPp88TOz4N_3nsTP8b0cJAXce1hipoYIGATdcNYsMZLWGjpqvCnvaeKNZQR2DnbABx3qCCg96o9BhKr_lIDlH64LEYhDuWycoclrHPAiu47rOfQwRXVlIJOwbwCHYzpPW41yCcEhJ3XFsintoEoZD0N8iN-2lvTpW_ri_q0cMabjD4rjTTf9dksn-cNYn23R7ARIaiyZByMylNluFDrYQz5nVoiImnPWCuOtNA-fzRSs6FK7nRxanTSbGQhLpL8xx_wkNGWvSZXksFUwVouJd-HYt1nhq3PrqbBKHIPox89NtU0r1ts5IXA1eiEH3ctjw4ZUWofjVgT2wBfnCdr8UxtcWpRSRaM-sk11N1AgmqmqS0iMrdYo9SBMCkCwDjf7awbSMYp2KqpYAS3vSVqONQuBhwsHj1e8QNQV-m1QFTIxFuyy1tNl1d5bOKbnwo9pCXa8WjkAkeKr3kC8_efeiFIPcCRlRJ2rAzzyxjUBtkBm4KIMtbc5DwFHQHrapMx-vRPvY-cjVj7j9lmtDrCRxNbAyu1SB7Qp3yi5mRc8PABzVnw3KXTogzNSdKehLUA79B1KZTTlrdNaUMuEXnDnSd7IZiX3F4UF9mg3F12kO5Ieofy0)
 
 [README.md](../README.md)
