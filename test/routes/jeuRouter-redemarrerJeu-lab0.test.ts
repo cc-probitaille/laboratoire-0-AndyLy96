@@ -21,7 +21,12 @@ describe('GET /api/v1/jeu/redemarrerJeu', () => {
     expect(response.status).toBe(200);
   });
 
-  it("devrait la postcondition du contrat d'operation", async () => {
-    throw new Error("Ce test n'a pas été défini")
+  it("devrait vérifier qu'il n'y a plus de joeurs", async () => {
+    await request.get('/api/v1/jeu/redemarrerJeu');
+    const response = await request.get('/api/v1/jeu/jouer/' + testNom1);
+    expect(response.status).toBe(404);
   });
+
+  
+
 });   
