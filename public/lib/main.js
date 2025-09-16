@@ -25,6 +25,8 @@ window.addEventListener("load", function()
         });
     });
 
+    const demarrer = document.getElementById("demarrer");
+
     demarrer.addEventListener("click", function()
     {
         nomDuFormulaire = formNouveauJoueur.elements["nom"].value.trim();
